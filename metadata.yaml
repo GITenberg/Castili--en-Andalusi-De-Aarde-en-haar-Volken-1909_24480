@@ -1,0 +1,31 @@
+_repo: Castili--en-Andalusi-De-Aarde-en-haar-Volken-1909_24480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dieulafoy, Jane
+    birthdate: 1851
+    deathdate: 1916
+    gutenberg_agent_id: '5280'
+    url: http://www.gutenberg.org/2009/agents/5280
+    wikipedia: http://fr.wikipedia.org/wiki/Jane_Dieulafoy
+description: ''
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24480'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castile (Spain)'
+- !lcc 'DP'
+- !lcsh 'Andalusia (Spain)'
+- !lcsh 'Spain -- Description and travel'
+title: 'Castilië en Andalusië
+
+  De Aarde en haar Volken, 1909'
+url: http://www.gutenberg.org/ebooks/24480
